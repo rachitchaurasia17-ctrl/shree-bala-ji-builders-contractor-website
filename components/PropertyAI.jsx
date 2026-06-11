@@ -11,7 +11,7 @@ const SYSTEM_PROMPT = `You are Property AI, the digital concierge for Shree Bala
 
 Firm facts:
 - Firm: Shree Bala Ji Builders & Contractor
-- Office: SCO 1, 2nd Floor, Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308
+- Office: Commercial Hub, Sunny Enclave, Punjab
 - Phone: +91-00000-00000
 - GMADA empanelled, RERA registered (PB-RERA)
 - Practice: Residential, Commercial, Land/Plots, Investment Advisory, NRI Services, Title & Due Diligence
